@@ -2,6 +2,7 @@
 
  ## Welcome to Bumblebee Institute for Advanced Study (BIAS)
  
+ Bumblebee is based on an insect whose ability to fly has sometimes been questioned on theoretical grounds, but which nonetheless is able to fly successfully.
  
  <img id="myImage" src="https://78.media.tumblr.com/51a75300d0af2562e431882965775f68/tumblr_p7eza9vAd71r2gxjho1_1280.png"  width="200" height="200" />
  

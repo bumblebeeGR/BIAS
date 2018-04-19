@@ -1,0 +1,25 @@
+Notebook[{Cell[
+BoxData[TagBox[StyleBox[DynamicModuleBox[{Set[$CellContext`b$$,-0.97],Set[
+$CellContext`l$$,0.3600000000000001],Set[Typeset`show$$,True],Set[Typeset`bookmarkList$$,
+{}],Set[Typeset`bookmarkMode$$,"Menu"],Typeset`animator$$,Set[Typeset`animvar$$,1],Set[
+Typeset`name$$,"\"untitled\""],Set[Typeset`specs$$,{{{Hold[$CellContext`b$$],0},-1,1},{{Hold[
+$CellContext`l$$],0},-1,1}}],Set[Typeset`size$$,{360,{105,112}}],Set[Typeset`update$$,
+0],Typeset`initDone$$,Set[Typeset`skipInitDone$$,True],Set[$CellContext`b$81968$$,
+0],Set[$CellContext`l$81969$$,0]},DynamicBox[Manipulate`ManipulateBoxes[1,StandardForm,
+RuleDelayed["Variables",{Set[$CellContext`b$$,0],Set[$CellContext`l$$,0]}],RuleDelayed[
+"ControllerVariables",{Hold[$CellContext`b$$,$CellContext`b$81968$$,0],Hold[$CellContext`l$$,
+$CellContext`l$81969$$,0]}],RuleDelayed["OtherVariables",{Typeset`show$$,Typeset`bookmarkList$$,Typeset`bookmarkMode$$,Typeset`animator$$,Typeset`animvar$$,Typeset`name$$,Typeset`specs$$,Typeset`size$$,Typeset`update$$,Typeset`initDone$$,Typeset`skipInitDone$$}],
+RuleDelayed["Body",Plot[Times[Plus[Times[5,$CellContext`l$$],Times[3,$CellContext`b$$]],
+Plus[$CellContext`l$$,$CellContext`b$$],Times[1,Power[Times[Power[$CellContext`r0,
+Times[4,$CellContext`l$$,Power[Plus[Times[3,$CellContext`l$$],$CellContext`b$$],-1]]],
+Times[$CellContext`b$$,Plus[Times[3,$CellContext`l$$],$CellContext`b$$]]],-1]]],{$CellContext`r0,0,10},
+AxesLabel->{Subscript[$CellContext`r,0],$CellContext`\[Rho]}]],RuleDelayed["Specifications",
+{{{$CellContext`b$$,0},-1,1},{{$CellContext`l$$,0},-1,1}}],RuleDelayed["Options",
+{}],RuleDelayed["DefaultOptions",{}]],ImageSizeCache->{407,{162,169}},SingleEvaluation->True],
+ExpressionUUID->"6c0668cf-b4af-44ed-82cf-13b63a7fc3b5",BoxID->"6c0668cf-b4af-44ed-82cf-13b63a7fc3b5",
+RuleDelayed[Deinitialization,None],RuleDelayed[DynamicModuleValues,{}],SynchronousInitialization->True,
+RuleDelayed[UndoTrackedVariables,{Typeset`show$$,Typeset`bookmarkMode$$}],RuleDelayed[
+UnsavedVariables,{Typeset`initDone$$}],RuleDelayed[UntrackedVariables,{Typeset`size$$}]],
+"Manipulate",Deployed->True,StripOnInput->False],Manipulate`InterpretManipulate[1]]],
+"Input",ExpressionUUID->"1bf700bc-6ea8-4fd8-b676-4e1f971bc6e8"]},StyleDefinitions->"Default.nb",
+FrontEndVersion->"11.3 for Wolfram Cloud 1.45 (March 20, 2018)"]

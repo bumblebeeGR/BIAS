@@ -27,8 +27,7 @@
 
  <b>-BUMBLEBEE MODEL OF GRAVITY</b>
  
- More information about bumblebee gravity:  Click <a href="https://en.wikipedia.org/wiki/Bumblebee_models">here</a> to go to Wikipedia.
-
+   <a href="https://github.com/bumblebeeGR/BIAS"> Click to Bumblebee model of gravity project on Github</a> 
 
 
 <b>Collabrators:</b>

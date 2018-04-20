@@ -30,15 +30,15 @@
    <a href="https://github.com/bumblebeeGR/BIAS"> Click to Bumblebee model of gravity project on Github</a> 
 
 
-<b>Collabrators:</b>
+<b>Co-founders of BIAS:</b>
 
-
- <a href="http://inspirehep.net/author/profile/I.Sakalli.1">Prof. İzzet Sakallı </a>
-
-
-  <a href="http://inspirehep.net/author/profile/A.Ovgun.1">Dr. Ali Övgün</a>
-
+  <a href="http://inspirehep.net/author/profile/A.Ovgun.1">Ali Övgün</a>
 
   <a href="http://inspirehep.net/author/profile/K.Jusufi.1">Kimet Jusufi</a>
+
+ <a href="http://inspirehep.net/author/profile/I.Sakalli.1">İzzet Sakallı </a>
+
+
+
 
 

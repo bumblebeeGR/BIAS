@@ -34,13 +34,11 @@
 
 
  <a href="http://inspirehep.net/author/profile/I.Sakalli.1">Prof. İzzet Sakallı </a>
-*Eastern Mediterranean University.
+
 
   <a href="http://inspirehep.net/author/profile/A.Ovgun.1">Dr. Ali Övgün</a>
-*Pontificia Universidad Católica de Valparaíso.
-*Eastern Mediterranean University.
+
 
   <a href="http://inspirehep.net/author/profile/K.Jusufi.1">Kimet Jusufi</a>
-*State University of Tetovo.
-*Ss. Cyril and Methodius University.
+
 

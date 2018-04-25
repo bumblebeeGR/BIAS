@@ -1,0 +1,129 @@
+Notebook[{Cell[
+CellGroupData[{Cell[
+BoxData[RowBox[{"rhop"," ","="," ",RowBox[{"Manipulate","[","\n","  ",RowBox[
+{RowBox[{"Plot","[",RowBox[{RowBox[{"(",RowBox[{RowBox[{"(",RowBox[{RowBox[{"4"," ","l"}]," ","+"," ","\n","       ","2"}],")"}]," ","r0"," ",RowBox[
+{"(",RowBox[{RowBox[{RowBox[{"(",RowBox[{"r0","/","r"}],")"}],"^",RowBox[{"(",RowBox[
+{RowBox[{"(",RowBox[{RowBox[{RowBox[{"-","5"}]," ","l"}]," ","-"," ","3"}],")"}],"/",RowBox[
+{"(",RowBox[{RowBox[{"3"," ","l"}]," ","+"," ","1"}],")"}]}],")"}]}],"/",RowBox[{"(",RowBox[
+{RowBox[{"(",RowBox[{RowBox[{"3"," ","l"}]," ","+"," ","1"}],")"}]," ",RowBox[{"r","^","3"}]}],")"}]}],")"}]}],")"}],","," ",RowBox[
+{"{",RowBox[{"r",","," ","\n","    ","0",","," ","\n","        ","1"}],"}"}],","," ",RowBox[
+{"AxesLabel"," ","\[Rule]"," ",RowBox[{"{",RowBox[{"r",","," ",RowBox[{"\[Rho]"," ","+"," ","p"}]}],"}"}]}]}],"]"}],","," ",RowBox[
+{"{",RowBox[{RowBox[{"{",RowBox[{"l",","," ",RowBox[{"-","2"}]}],"}"}],","," ",RowBox[
+{"-","10"}],","," ","\n","   ","0"}],"}"}],","," ",RowBox[{"{",RowBox[{RowBox[{"{",RowBox[
+{"r0",","," ","1"}],"}"}],","," ","0",","," ","10"}],"}"}]}],"]"}]}]],"Input",ExpressionUUID->"14a5aad6-21f2-4c99-b546-c84a56fb5511",
+CellLabel->"In[1]:= "],Cell[
+BoxData[TagBox[StyleBox[DynamicModuleBox[{Set[l$$,-2],Set[
+r0$$,1],Set[Typeset`show$$,True],Set[Typeset`bookmarkList$$,{}],Set[Typeset`bookmarkMode$$,
+"Menu"],Typeset`animator$$,Set[Typeset`animvar$$,1],Set[Typeset`name$$,"\"untitled\""],Set[
+Typeset`specs$$,{{{Hold[l$$],-2},-10,0},{{Hold[r0$$],1},0,10}}],Set[Typeset`size$$,
+Automatic],Set[Typeset`update$$,0],Set[Typeset`initDone$$,False],Set[Typeset`skipInitDone$$,
+True],Set[l$33974$$,0],Set[r0$33979$$,0]},DynamicBox[Manipulate`ManipulateBoxes[1,
+StandardForm,RuleDelayed["Variables",{Set[l$$,-2],Set[r0$$,1]}],RuleDelayed["ControllerVariables",
+{Hold[l$$,l$33974$$,0],Hold[r0$$,r0$33979$$,0]}],RuleDelayed["OtherVariables",{Typeset`show$$,Typeset`bookmarkList$$,Typeset`bookmarkMode$$,Typeset`animator$$,Typeset`animvar$$,Typeset`name$$,Typeset`specs$$,Typeset`size$$,Typeset`update$$,Typeset`initDone$$,Typeset`skipInitDone$$}],
+RuleDelayed["Body",Plot[Times[Plus[Times[4,l$$],2],r0$$,Times[Power[Times[r0$$,Power[
+r,-1]],Times[Plus[Times[-5,l$$],-3],Power[Plus[Times[3,l$$],1],-1]]],Power[Times[
+Plus[Times[3,l$$],1],Power[r,3]],-1]]],{r,0,1},AxesLabel->{r,Plus[\[Rho],p]}]],RuleDelayed[
+"Specifications",{{{l$$,-2},-10,0},{{r0$$,1},0,10}}],RuleDelayed["Options",{}],RuleDelayed[
+"DefaultOptions",{}]],SingleEvaluation->True],RuleDelayed[DynamicModuleValues,{}],
+RuleDelayed[Deinitialization,None],RuleDelayed[UntrackedVariables,{Typeset`size$$}],
+SynchronousInitialization->True,RuleDelayed[UnsavedVariables,{Typeset`initDone$$}],
+RuleDelayed[UndoTrackedVariables,{Typeset`show$$,Typeset`bookmarkMode$$}],ExpressionUUID->"138d0005-9c89-4906-b113-7b1ef993072c"],
+"Manipulate",Deployed->True,StripOnInput->False],Manipulate`InterpretManipulate[1]],
+StandardForm],"Output",ExpressionUUID->"279b1769-7bc4-4c35-b431-beda408aabc5",CellLabel->"Out[1]= "]},
+Open],ExpressionUUID->"6bab3166-6637-4d38-b3cc-f99b4495aea6"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"CloudDeploy","[","rhop","]"}]],"Input",ExpressionUUID->"b0e871e8-7dce-43ae-a965-799e0ca140d4",
+CellLabel->"In[6]:= "],Cell[
+BoxData[TagBox[InterpretationBox[RowBox[{"CloudObject","[",TemplateBox[
+{"\"https://www.wolframcloud.com/objects/b9c3ae67-7f31-466f-ae9d-7e2c1f08139f\"","https://www.wolframcloud.com/objects/b9c3ae67-7f31-466f-ae9d-7e2c1f08139f"},
+"HyperlinkURL"],"]"}],CloudObject["https://www.wolframcloud.com/objects/b9c3ae67-7f31-466f-ae9d-7e2c1f08139f"]],
+"RawBoxes"],StandardForm],"Output",ExpressionUUID->"dc495e9f-da1c-4b98-9ea1-b129e56e0418",
+CellLabel->"Out[6]= "]},Open],ExpressionUUID->"a76fd23e-e5da-497a-a292-6611315ecd6f"],Cell[
+BoxData[
+""],"Input",ExpressionUUID->"5ab87da2-50ff-4c5a-8efb-8196907fa19c"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"rho"," ","="," ",RowBox[{"Manipulate","[","\n"," ",RowBox[
+{RowBox[{"Plot","[",RowBox[{RowBox[{"r0"," ",RowBox[{RowBox[{"(",RowBox[{"r0","/","\n","      ","r"}],")"}],"^",RowBox[
+{"(",RowBox[{RowBox[{"(",RowBox[{RowBox[{RowBox[{"-","5"}]," ","l"}]," ","-"," ","3"}],")"}],"/",RowBox[
+{"(",RowBox[{RowBox[{"3"," ","l"}]," ","+"," ","1"}],")"}]}],")"}]}]," ",RowBox[{"(",RowBox[
+{RowBox[{"(",RowBox[{RowBox[{"5"," ","l"}]," ","+"," ","3"}],")"}],"/",RowBox[{"(",RowBox[
+{RowBox[{"(",RowBox[{RowBox[{"3"," ","l"}]," ","+"," ","1"}],")"}],"  ",RowBox[{"r","^","3"}]}],")"}]}],")"}]}],","," ",RowBox[
+{"{",RowBox[{"r",","," ","0",","," ","\n","   ","10"}],"}"}],","," ",RowBox[{"AxesLabel"," ","\[Rule]"," ",RowBox[
+{"{",RowBox[{"r",","," ","\[Rho]"}]," ","}"}]}]}],"]"}],","," ",RowBox[{"{",RowBox[
+{RowBox[{"{",RowBox[{"l",","," ","\n","       ",RowBox[{"-","2"}]}],"}"}],","," ",RowBox[
+{"-","10"}],","," ","10"}],"}"}],","," ",RowBox[{"{",RowBox[{RowBox[{"{",RowBox[{"r0",","," ","1"}],"}"}],","," ","0",","," ","10"}],"}"}]}],"]"}]}]],
+"Input",ExpressionUUID->"ae0473d2-0f9a-4864-acdc-d04dfd9f4a30",CellLabel->"In[2]:= "],Cell[
+BoxData[
+TagBox[StyleBox[DynamicModuleBox[{Set[l$$,-2],Set[r0$$,1],Set[Typeset`show$$,True],Set[
+Typeset`bookmarkList$$,{}],Set[Typeset`bookmarkMode$$,"Menu"],Typeset`animator$$,Set[
+Typeset`animvar$$,1],Set[Typeset`name$$,"\"untitled\""],Set[Typeset`specs$$,{{{Hold[
+l$$],-2},-10,10},{{Hold[r0$$],1},0,10}}],Set[Typeset`size$$,Automatic],Set[Typeset`update$$,
+0],Set[Typeset`initDone$$,False],Set[Typeset`skipInitDone$$,True],Set[l$45453$$,0],Set[
+r0$45454$$,0]},DynamicBox[Manipulate`ManipulateBoxes[1,StandardForm,RuleDelayed["Variables",
+{Set[l$$,-2],Set[r0$$,1]}],RuleDelayed["ControllerVariables",{Hold[l$$,l$45453$$,
+0],Hold[r0$$,r0$45454$$,0]}],RuleDelayed["OtherVariables",{Typeset`show$$,Typeset`bookmarkList$$,Typeset`bookmarkMode$$,Typeset`animator$$,Typeset`animvar$$,Typeset`name$$,Typeset`specs$$,Typeset`size$$,Typeset`update$$,Typeset`initDone$$,Typeset`skipInitDone$$}],
+RuleDelayed["Body",Plot[Times[r0$$,Power[Times[r0$$,Power[r,-1]],Times[Plus[Times[
+-5,l$$],-3],Power[Plus[Times[3,l$$],1],-1]]],Times[Plus[Times[5,l$$],3],Power[Times[
+Plus[Times[3,l$$],1],Power[r,3]],-1]]],{r,0,10},AxesLabel->{r,\[Rho]}]],RuleDelayed[
+"Specifications",{{{l$$,-2},-10,10},{{r0$$,1},0,10}}],RuleDelayed["Options",{}],RuleDelayed[
+"DefaultOptions",{}]],SingleEvaluation->True],RuleDelayed[DynamicModuleValues,{}],
+RuleDelayed[Deinitialization,None],RuleDelayed[UntrackedVariables,{Typeset`size$$}],
+SynchronousInitialization->True,RuleDelayed[UnsavedVariables,{Typeset`initDone$$}],
+RuleDelayed[UndoTrackedVariables,{Typeset`show$$,Typeset`bookmarkMode$$}],ExpressionUUID->"1fd17229-c1a2-44ef-a1d5-6442c4feef66"],
+"Manipulate",Deployed->True,StripOnInput->False],Manipulate`InterpretManipulate[1]],
+StandardForm],"Output",ExpressionUUID->"ec09eaa4-fcc1-4362-85d4-e3a61d0b7a73",CellLabel->"Out[2]= "]},
+Open],ExpressionUUID->"1babde45-249c-40cf-99f8-270808ed3068"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"CloudDeploy","[","rho","]"}]],"Input",ExpressionUUID->"4693caea-eacc-4985-bf71-a547d5dfe958",
+CellLabel->"In[5]:= "],Cell[
+BoxData[TagBox[InterpretationBox[RowBox[{"CloudObject","[",TemplateBox[
+{"\"https://www.wolframcloud.com/objects/72a4aa0e-8fac-4a66-a07d-e4cc53333ded\"","https://www.wolframcloud.com/objects/72a4aa0e-8fac-4a66-a07d-e4cc53333ded"},
+"HyperlinkURL"],"]"}],CloudObject["https://www.wolframcloud.com/objects/72a4aa0e-8fac-4a66-a07d-e4cc53333ded"]],
+"RawBoxes"],StandardForm],"Output",ExpressionUUID->"8b018cd8-fcb2-4cef-8649-1576500b346b",
+CellLabel->"Out[5]= "]},Open],ExpressionUUID->"573b14c4-3de5-4c84-af57-c00b8d460e27"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"rho3p","="," ",RowBox[{"Manipulate","[","\n","   ",RowBox[
+{RowBox[{"Plot","[",RowBox[{RowBox[{"2"," ","r0"," ",RowBox[{RowBox[{"(",RowBox[{"r0","/","r"}],")"}],"^",RowBox[
+{"(",RowBox[{RowBox[{"(",RowBox[{RowBox[{RowBox[{"-","5"}]," ","l"}]," ","-"," ","3"}],")"}],"/",RowBox[
+{"(",RowBox[{RowBox[{"3"," ","l"}]," ","+"," ","1"}],")"}]}],")"}]}]," ",RowBox[{"(",RowBox[
+{"l","/",RowBox[{"(",RowBox[{RowBox[{"(",RowBox[{RowBox[{"3"," ","l"}]," ","+"," ","1"}],")"}]," ",RowBox[
+{"r","^","3"}]}],")"}]}],")"}]}],","," ",RowBox[{"{",RowBox[{"r",","," ","\n","   ","0.1",","," ","10"}],"}"}],","," ",RowBox[
+{"AxesLabel"," ","\[Rule]"," ",RowBox[{"{",RowBox[{"r",","," ",RowBox[{"\[Rho]"," ","+"," ",RowBox[
+{"3"," ","p"}]}]}]," ","}"}]}]}],"]"}],","," ",RowBox[{"{",RowBox[{RowBox[{"{",RowBox[
+{"l",","," ","\n","       ",RowBox[{"-","2"}]}],"}"}],","," ",RowBox[{"-","10"}],","," ","10"}],"}"}],","," ",RowBox[
+{"{",RowBox[{RowBox[{"{",RowBox[{"r0",","," ","1"}],"}"}],","," ","0",","," ","10"}],"}"}]}],"]"}]}]],
+"Input",ExpressionUUID->"e43b7318-b4c2-47bf-9a27-e335b7c973cd",CellLabel->"In[3]:= "],Cell[
+BoxData[
+TagBox[StyleBox[DynamicModuleBox[{Set[l$$,-2],Set[r0$$,1],Set[Typeset`show$$,True],Set[
+Typeset`bookmarkList$$,{}],Set[Typeset`bookmarkMode$$,"Menu"],Typeset`animator$$,Set[
+Typeset`animvar$$,1],Set[Typeset`name$$,"\"untitled\""],Set[Typeset`specs$$,{{{Hold[
+l$$],-2},-10,10},{{Hold[r0$$],1},0,10}}],Set[Typeset`size$$,Automatic],Set[Typeset`update$$,
+0],Set[Typeset`initDone$$,False],Set[Typeset`skipInitDone$$,True],Set[l$52110$$,0],Set[
+r0$52111$$,0]},DynamicBox[Manipulate`ManipulateBoxes[1,StandardForm,RuleDelayed["Variables",
+{Set[l$$,-2],Set[r0$$,1]}],RuleDelayed["ControllerVariables",{Hold[l$$,l$52110$$,
+0],Hold[r0$$,r0$52111$$,0]}],RuleDelayed["OtherVariables",{Typeset`show$$,Typeset`bookmarkList$$,Typeset`bookmarkMode$$,Typeset`animator$$,Typeset`animvar$$,Typeset`name$$,Typeset`specs$$,Typeset`size$$,Typeset`update$$,Typeset`initDone$$,Typeset`skipInitDone$$}],
+RuleDelayed["Body",Plot[Times[2,r0$$,Power[Times[r0$$,Power[r,-1]],Times[Plus[Times[
+-5,l$$],-3],Power[Plus[Times[3,l$$],1],-1]]],Times[l$$,Power[Times[Plus[Times[3,l$$],
+1],Power[r,3]],-1]]],{r,0.1,10},AxesLabel->{r,Plus[\[Rho],Times[3,p]]}]],RuleDelayed[
+"Specifications",{{{l$$,-2},-10,10},{{r0$$,1},0,10}}],RuleDelayed["Options",{}],RuleDelayed[
+"DefaultOptions",{}]],SingleEvaluation->True],RuleDelayed[DynamicModuleValues,{}],
+RuleDelayed[Deinitialization,None],RuleDelayed[UntrackedVariables,{Typeset`size$$}],
+SynchronousInitialization->True,RuleDelayed[UnsavedVariables,{Typeset`initDone$$}],
+RuleDelayed[UndoTrackedVariables,{Typeset`show$$,Typeset`bookmarkMode$$}],ExpressionUUID->"8bda71a5-b29a-49e2-8494-42c111a926c6"],
+"Manipulate",Deployed->True,StripOnInput->False],Manipulate`InterpretManipulate[1]],
+StandardForm],"Output",ExpressionUUID->"89e4e26b-c846-4c21-8c16-626694ff7991",CellLabel->"Out[3]= "]},
+Open],ExpressionUUID->"9ad11f9a-a7d1-4f99-bf07-1025b13c1eb3"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"CloudDeploy","[","rho3p","]"}]],"Input",NumberMarks->False,
+ExpressionUUID->"16197b15-9370-404a-be32-8f82fa42996c",CellLabel->"In[4]:= "],Cell[
+BoxData[
+TagBox[InterpretationBox[RowBox[{"CloudObject","[",TemplateBox[{"\"https://www.wolframcloud.com/objects/6bd52e2c-f49c-41b2-8d28-e2153c4c10b1\"","https://www.wolframcloud.com/objects/6bd52e2c-f49c-41b2-8d28-e2153c4c10b1"},
+"HyperlinkURL"],"]"}],CloudObject["https://www.wolframcloud.com/objects/6bd52e2c-f49c-41b2-8d28-e2153c4c10b1"]],
+"RawBoxes"],StandardForm],"Output",ExpressionUUID->"ae76b7ec-5669-43b0-b023-a57161f8312d",
+CellLabel->"Out[4]= "]},Open],ExpressionUUID->"ed75f0c7-dc96-4b43-b363-37fe9895b3a2"]},
+StyleDefinitions->"Default.nb",FrontEndVersion->"11.3 for Wolfram Cloud 1.45 (March 20, 2018)"]

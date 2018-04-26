@@ -1,6 +1,6 @@
 
 
- ## Welcome to Bumblebee Institute for Advanced Study (BIAS)
+Welcome to Bumblebee Institute for Advanced Study (BIAS)
  
  
  <img id="myImage" src="https://78.media.tumblr.com/51a75300d0af2562e431882965775f68/tumblr_p7eza9vAd71r2gxjho1_1280.png"  width="200" height="200" />

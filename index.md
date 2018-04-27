@@ -9,6 +9,10 @@ Welcome to Bumblebee Institute for Advanced Study (BIAS)
  
  <b>Research Topics:</b>
  
+  <b>-BUMBLEBEE MODEL OF GRAVITY</b>
+ 
+   <a href="https://github.com/bumblebeeGR/BIAS"> Click to Bumblebee model of gravity project on Github</a> 
+ 
  <b>- COSMOLOGY:</b> Cosmological models with Nonlinear electrodynamics, Cosmological singularities, Inflation, Acceleration of Universe.
 
  <b>-WORMHOLES:</b> Stability of Thin-shell Wormholes and Lorentzian Wormholes (WHs).
@@ -25,9 +29,6 @@ Welcome to Bumblebee Institute for Advanced Study (BIAS)
 
  <b>-ENTANGLEMENT & COMPLEXITY:</b> Quantum complexity inside black holes;  Action Growth Rates
 
- <b>-BUMBLEBEE MODEL OF GRAVITY</b>
- 
-   <a href="https://github.com/bumblebeeGR/BIAS"> Click to Bumblebee model of gravity project on Github</a> 
 
 
 <b>Co-founders of BIAS:</b>

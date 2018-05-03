@@ -11,17 +11,23 @@ More information about bumblebee gravity:  Click <a href="https://en.wikipedia.o
 
 <b>Collabrators:</b>
 
-  <a href="http://inspirehep.net/author/profile/A.Ovgun.1">Ali Övgün</a>
+  <a href="https://scholar.google.com/citations?user=BGG4MZwAAAAJ&hl=en&oi=ao">Dr. Ali Övgün</a>
 *Pontificia Universidad Católica de Valparaíso.
 
 
-  <a href="http://inspirehep.net/author/profile/K.Jusufi.1">Kimet Jusufi</a>
+  <a href="https://scholar.google.com/citations?user=3SEfKlkAAAAJ&hl=en">Kimet Jusufi</a>
 *State University of Tetovo.
 *Ss. Cyril and Methodius University.
 
 
- <a href="http://inspirehep.net/author/profile/I.Sakalli.1">İzzet Sakallı </a>
+ <a href="https://scholar.google.com/citations?user=3Bn4iSwAAAAJ&hl=en">Prof. Dr. İzzet Sakallı </a>
 *Eastern Mediterranean University.
+
+
+
+
+
+
 
 
 

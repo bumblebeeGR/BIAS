@@ -33,11 +33,11 @@ Welcome to Bumblebee Institute for Advanced Study (BIAS)
 
 <b>Co-founders of BIAS:</b>
 
-  <a href="http://inspirehep.net/author/profile/A.Ovgun.1">Ali Övgün</a>
+  <a href="https://scholar.google.com/citations?user=BGG4MZwAAAAJ&hl=en&oi=ao">Ali Övgün</a>
 
-  <a href="http://inspirehep.net/author/profile/K.Jusufi.1">Kimet Jusufi</a>
+  <a href="https://scholar.google.com/citations?user=3SEfKlkAAAAJ&hl=en">Kimet Jusufi</a>
 
- <a href="http://inspirehep.net/author/profile/I.Sakalli.1">İzzet Sakallı </a>
+ <a href="https://scholar.google.com/citations?user=3Bn4iSwAAAAJ&hl=en">İzzet Sakallı </a>
 
 
 

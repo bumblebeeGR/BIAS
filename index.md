@@ -33,11 +33,18 @@ Welcome to Bumblebee Institute for Advanced Study (BIAS)
 
 <b>Co-founders of BIAS:</b>
 
-  <a href="https://scholar.google.com/citations?user=BGG4MZwAAAAJ&hl=en&oi=ao">Ali Övgün</a>
+  <a href="https://scholar.google.com/citations?user=BGG4MZwAAAAJ&hl=en&oi=ao">Dr. Ali Övgün</a>
+*Pontificia Universidad Católica de Valparaíso, Chile.
+
 
   <a href="https://scholar.google.com/citations?user=3SEfKlkAAAAJ&hl=en">Kimet Jusufi</a>
+*State University of Tetovo.
+*Ss. Cyril and Methodius University, Macedonia.
 
- <a href="https://scholar.google.com/citations?user=3Bn4iSwAAAAJ&hl=en">İzzet Sakallı </a>
+
+ <a href="https://scholar.google.com/citations?user=3Bn4iSwAAAAJ&hl=en">Prof. Dr. İzzet Sakallı </a>
+*Eastern Mediterranean University, North Cyprus.
+
 
 
 

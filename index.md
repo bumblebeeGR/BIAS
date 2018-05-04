@@ -30,7 +30,7 @@ Welcome to Bumblebee Institute for Advanced Study (BIAS)
  <b>-ENTANGLEMENT & COMPLEXITY:</b> Quantum complexity inside black holes;  Action Growth Rates
 
 
- <img id="myImage" src="https://www.dropbox.com/s/226kkng3cx8dg2m/BIAS%20JOURNAL%20OF%20PHYSICS.jpg?dl=0"  width="200" height="200" />
+ <img id="myImage" src="https://www.dropbox.com/s/226kkng3cx8dg2m/BIAS%20JOURNAL%20OF%20PHYSICS.jpg"  width="200" height="200" />
 
 
 <b>Co-founders of BIAS:</b>

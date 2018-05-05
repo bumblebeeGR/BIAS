@@ -32,8 +32,6 @@ Welcome to Bumblebee Institute for Advanced Study (BIAS)
 
  <img id="myImage" src="https://78.media.tumblr.com/4cc19855e21cda52bf3341d18087bb20/tumblr_p884rqbIIn1r2gxjho1_1280.jpg"  width="200" height="300" />
  
- <a href="https://bumblebeegr.github.io/BIAS/"><img id="myImage" src=" https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiWxM6i8u3aAhWM7IMKHSjUAOIQjRx6BAgBEAU&url=https%3A%2F%2Fageofshitlords.com%2Fsubmit-an-article&psig=AOvVaw1_ClY-2_1ISuN79aKIjikb&ust=1525586361864404"  width="200" height="300" />
-
 
 <b>Co-founders of BIAS:</b>
 

@@ -7,7 +7,7 @@
  
   Bumblebee is based on an insect whose ability to fly has sometimes been questioned on theoretical grounds, but which nonetheless is able to fly successfully.
   
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/151006424@N03/albums/72157696276838154" title="BIAS North Cyprus"><img src="https://farm1.staticflickr.com/982/41257549375_575f417d84_z.jpg" width="640" height="426" alt="BIAS North Cyprus"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+ <a data-flickr-embed="true"  href="https://www.flickr.com/photos/151006424@N03/albums/72157696276838154" title="BIAS North Cyprus"><img src="https://farm1.staticflickr.com/982/41257549375_575f417d84_m.jpg" width="240" height="160" alt="BIAS North Cyprus"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   
   
  <p><b> Mission </b></p>

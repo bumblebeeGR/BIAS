@@ -50,6 +50,12 @@ Welcome to Bumblebee Institute for Advanced Study (BIAS)
 *Eastern Mediterranean University, North Cyprus.
 
 
+BIAS is a virtual institute at North Cyprus. There is no office, but email and inquiries can be sent to the following e-mail address: 
+
+  <a href="biasjournalofphysics@gmail.com ">biasjournalofphysics[at]gmail.com </a>
+
+
+
 
 
 

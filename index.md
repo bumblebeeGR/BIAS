@@ -1,11 +1,27 @@
 
 
-Welcome to Bumblebee Institute for Advanced Study (BIAS)
+ <p><b>Welcome to Bumblebee Institute for Advanced Study (BIAS)</b></p>
  
  
  <img id="myImage" src="https://78.media.tumblr.com/51a75300d0af2562e431882965775f68/tumblr_p7eza9vAd71r2gxjho1_1280.png"  width="200" height="200" />
  
   Bumblebee is based on an insect whose ability to fly has sometimes been questioned on theoretical grounds, but which nonetheless is able to fly successfully.
+  
+  
+ <p><b> Mission </b></p>
+
+To catalyze, support, and disseminate research on questions at the foundations of physics and cosmology, particularly new frontiers and innovative ideas integral to a deep understanding of reality. 
+
+ <p><b>Goals </b></p>
+
+To expand the purview of scientific inquiry to include scientific disciplines fundamental to a deep understanding of reality of the nature.
+
+To forge and maintain useful collaborations between researchers working on foundational questions in physics, cosmology, and related fields.
+
+To provide the public with a deeper understanding of known and future discoveries in these areas, and their potential implications for our worldview.
+  
+  
+  
  
  <b>Research Topics:</b>
  

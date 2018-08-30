@@ -59,13 +59,13 @@ To provide the public with a deeper understanding of known and future discoverie
 *Eastern Mediterranean University, North Cyprus.
 
 
-  <a href="https://scholar.google.com/citations?user=3SEfKlkAAAAJ&hl=en">Kimet Jusufi</a>
-*State University of Tetovo.
-*Ss. Cyril and Methodius University, Macedonia.
-
 
  <a href="https://scholar.google.com/citations?user=3Bn4iSwAAAAJ&hl=en">Prof. Dr. İzzet Sakallı </a>
 *Eastern Mediterranean University, North Cyprus.
+
+  <a href="https://scholar.google.com/citations?user=3SEfKlkAAAAJ&hl=en">Kimet Jusufi (Ph.D student)</a>
+*State University of Tetovo.
+*Ss. Cyril and Methodius University, Macedonia.
 
 
 BIAS is a virtual institute at North Cyprus. There is no office, but email and inquiries can be sent to the following e-mail address: 

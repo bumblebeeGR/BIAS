@@ -55,8 +55,8 @@ To provide the public with a deeper understanding of known and future discoverie
 
 <b>Co-founders of BIAS:</b>
 
-  <a href="https://scholar.google.com/citations?user=BGG4MZwAAAAJ&hl=en&oi=ao">Dr. Ali Övgün</a>
-*Pontificia Universidad Católica de Valparaíso, Chile.
+  <a href="https://scholar.google.com/citations?user=BGG4MZwAAAAJ&hl=en&oi=ao">Assist. Prof. Dr. Ali Övgün</a>
+*Eastern Mediterranean University, North Cyprus.
 
 
   <a href="https://scholar.google.com/citations?user=3SEfKlkAAAAJ&hl=en">Kimet Jusufi</a>

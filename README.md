@@ -20,6 +20,8 @@ More information about bumblebee gravity:  Click <a href="https://en.wikipedia.o
 *Eastern Mediterranean University.
 *Pontificia Universidad Católica de Valparaíso.
 
+  <a href="https://scholar.google.com/citations?user=3SEfKlkAAAAJ&hl=en">Kimet Jusufi (Ph.D student)</a>
+*State University of Tetovo.
 
 
 

@@ -63,10 +63,6 @@ To provide the public with a deeper understanding of known and future discoverie
 *Pontificia Universidad Católica de Valparaíso, Chile.
 
 
-  <a href="https://scholar.google.com/citations?user=3SEfKlkAAAAJ&hl=en">Kimet Jusufi (Ph.D student)</a>
-*State University of Tetovo.
-
-
 
 BIAS is a virtual institute at North Cyprus. There is no office, but email and inquiries can be sent to the following e-mail address: 
 

@@ -55,13 +55,7 @@ To provide the public with a deeper understanding of known and future discoverie
 
 <b>Co-founders of BIAS:</b>
 
- <a href="https://scholar.google.com/citations?user=3Bn4iSwAAAAJ&hl=en">Prof. Dr. İzzet Sakallı </a>
-*Eastern Mediterranean University, North Cyprus.
-
-  <a href="https://scholar.google.com/citations?user=aG1SiFQAAAAJ&hl=en&oi=ao">Assist. Prof. Dr. Ali Övgün</a>
-*Eastern Mediterranean University, North Cyprus.
-*Pontificia Universidad Católica de Valparaíso, Chile.
-
+Turkish Cypriot Physicists.
 
 
 BIAS is a virtual institute at North Cyprus. There is no office, but email and inquiries can be sent to the following e-mail address: 

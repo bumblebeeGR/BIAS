@@ -24,3 +24,8 @@ Physical Review D. 63 (6): 065008. arXiv:hep-th/0012060.
 Physical Review D. 69 (10): 105009. arXiv:hep-th/0312310.
 
 [4] Bailey, Quentin; Kostelecký, V. Alan (2006). "Signals for Lorentz violation in post-Newtonian gravity". Physical Review D. 74 (4): 045001. arXiv:gr-qc/0603030.
+
+[5] Övgün, Ali; Jusufi, Kimet; Sakalli, Izzet (2019). "Exact traversable wormhole solution in bumblebee gravity".
+ Physical Review D. 99 (2019) no.2, 024042.
+ 
+[6] Övgün, Ali; Jusufi, Kimet; Sakalli, Izzet (2018). "Gravitational lensing under the effect of Weyl and bumblebee gravities: Applications of Gauss–Bonnet theorem". Annals Phys. 399 (2018) 193-203.

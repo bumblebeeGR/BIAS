@@ -25,7 +25,7 @@ To provide the public with a deeper understanding of known and future discoverie
  
 
 
- <a href="http://dergipark.gov.tr/biasjp"><img id="myImage" src="https://78.media.tumblr.com/4cc19855e21cda52bf3341d18087bb20/tumblr_p884rqbIIn1r2gxjho1_1280.jpg"  width="200" height="300" />  
+ <a href="https://tracksidetires.com/wp-content/uploads/2018/12/coming-soon5.png"><img id="myImage" src="https://78.media.tumblr.com/4cc19855e21cda52bf3341d18087bb20/tumblr_p884rqbIIn1r2gxjho1_1280.jpg"  width="200" height="300" />  
  
 
  

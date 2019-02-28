@@ -9,19 +9,6 @@ The development of bumblebee models was motivated primarily by the discovery tha
 
 More information about bumblebee gravity:  Click <a href="https://en.wikipedia.org/wiki/Bumblebee_models">here</a> to go to Wikipedia.
 
-<b>Collabrators:</b>
-
-
- <a href="https://scholar.google.com/citations?user=3Bn4iSwAAAAJ&hl=en">Prof. Dr. İzzet Sakallı </a>
-*Eastern Mediterranean University.
-
-
-  <a href="https://scholar.google.com/citations?user=aG1SiFQAAAAJ&hl=en&oi=ao">Assist. Prof. Dr. Ali Övgün</a>
-*Eastern Mediterranean University.
-*Pontificia Universidad Católica de Valparaíso.
-
-  <a href="https://scholar.google.com/citations?user=3SEfKlkAAAAJ&hl=en">Kimet Jusufi (Ph.D student)</a>
-*State University of Tetovo.
 
 
 

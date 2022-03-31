@@ -1,7 +1,7 @@
 
  ## Welcome to North Cyprus Black Hole Physics Center
  
- <img id="myImage" src="https://i.ytimg.com/vi/qQmGMXgHQy4/maxresdefault.jpg"  width="200" height="200" />
+ <img id="myImage" src="https://i.ytimg.com/vi/qQmGMXgHQy4/maxresdefault.jpg"  width="400" height="200" />
  
 
 Summary

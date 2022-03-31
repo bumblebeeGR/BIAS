@@ -19,10 +19,6 @@ To provide the public with a deeper understanding of known and future discoverie
   
  
 
-
- <a href="https://biasjp.github.io/biasjp/"><img id="myImage" src="https://78.media.tumblr.com/4cc19855e21cda52bf3341d18087bb20/tumblr_p884rqbIIn1r2gxjho1_1280.jpg"  width="200" height="300" />  
- 
-
  
 
 <b>Co-founders of North Cyprus Black Hole Physics Center:</b>
